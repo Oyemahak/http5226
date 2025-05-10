@@ -1,0 +1,36 @@
+Question 1: What module content you have explored this week?
+
+This week I focused primarily on thoroughly studying the learning modules provided in the course. I completed:
+
+-- Module 1 (Project Planning): Learned wireframing and ERD creation
+-- Module 2 (Entity Framework): Practiced code-first migrations
+-- Previewed Module 3 LINQ materials to prepare for upcoming work
+
+
+Question 2: What have you worked on regarding your passion project?
+
+For my School Management System, I've:
+Created simple wireframes (student registration form, admin/manager dashboard)
+
+Built these database tables using EF Core:
+
+-- Students (ID, Name, Email)
+-- Courses (ID, Name, Credits)
+-- Enrollments (StudentID, CourseID)
+
+Set up GitHub repository with initial ASP.NET Core MVC project
+
+
+Question 3: Are there any issues impacting your project timeline? 
+(NOTE: If you would like assistance; get in touch with your instructor!)
+
+No blockers yet. My next immediate tasks are:
+
+-- Add validation to student registration form
+-- Create basic course enrollment function
+-- Implement admin view to see all enrollments
+
+Where I Might Need Help:
+
+Adding user authentication later (will review ASP.NET Core Identity)
+Optimizing LINQ queries for better performance
